@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git://github.com/hellsan631/angular-fullpage.js.git"
   },
-  "main": [
-    "angular-fullpage.js",
-    "angular-fullpage.min.js"
-  ],
+  "main": ["angular-fullpage.js"],
   "ignore": [
     ".jshintrc",
     ".editorconfig",
